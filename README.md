@@ -1,1 +1,14 @@
-![Welcome](https://camo.githubusercontent.com/16a35dcaf5db5facade8ef6948a0e396e090d32b933da176978b8ce5a43cb90e/68747470733a2f2f692e696d6775722e636f6d2f716954486546522e706e67)
+<!-- Heading -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Gift Egwuenu</h3>
+
+<!-- Profile Views -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
+
+<p align="center">
+  <a href="https://www.giftegwuenu.dev">Website</a> •
+  <a href="https://twitter.com/lauragift_">Twitter</a>
+</p>
+
+ <!-- About section -->
