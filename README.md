@@ -57,7 +57,7 @@ I am always eager to learn and improve my skills, and actively seeking opportuni
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/0xsarwagya/"><img alt="Sarwagya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=0xsarwagya&custom_title=Sarwagya's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/0xsarwagya/"><img alt="Sarwagya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=0xsarwagya&custom_title=Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </details>
 
