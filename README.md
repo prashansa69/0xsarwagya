@@ -26,3 +26,17 @@ I am always eager to learn and improve my skills, and actively seeking opportuni
 - 📫 How to reach me: [@0xsarwagya](https://instagram.com/0xsarwagya)
 
 - ⚡ I Am Actively Looking For Research Internships and Part-time Jobs As A Student!
+
+- 💼 Co-Founder & CEO at [Esportzvio Private Limited](https://github.com/Esportzvio)
+
+<!-- Conecct section -->
+
+<h2>Connect with me </h3>
+    <p>
+        <a href="https://linkedin.com/in/0xsarwagya"><img src="https://img.shields.io/badge/-Sarwagya%20Singh%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/0xsarwagya" alt="LinkedIn Badge"></a> 
+       <a href="https://twitter.com/@0xsarwagya
+/"><img src="https://img.shields.io/badge/-Sarwagya Singh-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/0xsarwagya" alt="Twitter Badge"></a>
+   </p>
+
+ <!-- Conecct section: END -->
+ 
