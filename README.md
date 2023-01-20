@@ -12,3 +12,7 @@
 </p>
 
  <!-- About section -->
+
+
+<!-- code gif-->
+<img align="right" alt="GIF" src="https://github.com/king04aman/king04aman/blob/main/assets/animation.gif" width="500" height="320" />
