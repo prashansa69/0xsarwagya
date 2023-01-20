@@ -12,7 +12,9 @@
 </p>
 
  <!-- About section -->
-✨ 
+✨ I am a highly motivated and dedicated student with a passion for cybersecurity and web3. My technical skills include proficiency in technologies such as ReactJS, NextJS, Solidity, ExpressJS, and MySQL. I have a strong understanding of web development and experience with front-end technologies, making me well-suited for roles in web3, web development and cybersecurity. 
+
+I am always eager to learn and improve my skills, and actively seeking opportunities to further develop my expertise in this field. I am a strong team player, good under pressure and able to work well in a fast-paced environment.
 
 <!-- code gif-->
 <img align="right" alt="GIF" src="https://github.com/king04aman/king04aman/blob/main/assets/coder.gif" width="500" height="320" />
