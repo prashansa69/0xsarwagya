@@ -18,3 +18,11 @@ I am always eager to learn and improve my skills, and actively seeking opportuni
 
 <!-- code gif-->
 <img align="right" alt="GIF" src="https://github.com/king04aman/king04aman/blob/main/assets/coder.gif" width="500" height="320" />
+
+- 😄 My Pronouns: He/Him   
+
+- 💬 Ask me about: NextJS, ReactJS, CyberSecurity & Web3
+
+- 📫 How to reach me: [@0xsarwagya](https://instagram.com/0xsarwagya)
+
+- ⚡ I Am Actively Looking For Research Internships and Part-time Jobs As A Student!
