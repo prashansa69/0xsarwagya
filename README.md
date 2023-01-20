@@ -40,3 +40,32 @@ I am always eager to learn and improve my skills, and actively seeking opportuni
 
  <!-- Conecct section: END -->
  
+  <!-- GitHub section -->
+
+ ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+ 
+ <div>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xsarwagya" alt="Sarwagya" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xsarwagya&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Sarwagya" height="192px"  width="500px"/>
+</div>
+
+**Expand to view**
+<details>
+  <summary><b>:zap: GitHub Profile Stat</b></summary>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=0xsarwagya&show_icons=true" />
+</details>
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/0xsarwagya/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=0xsarwagya&custom_title=Sarwagya's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+</details>
+
+<!-- GitHub section: END -->
+
+<!-- Profile Views -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xsarwagya&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
+
+<!-- THE END -->
