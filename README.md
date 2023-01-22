@@ -46,6 +46,7 @@ I am always eager to learn and improve my skills, and actively seeking opportuni
  
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xsarwagya" alt="Sarwagya" />
+  <br />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xsarwagya&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Sarwagya" height="192px"  width="500px"/>
 </div>
 
