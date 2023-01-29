@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.sarwagya.xyz">Website</a> •
-  <a href="https://twitter.com/0xsarwagya">Twitter</a>
+  <a href="https://www.sarwagya.xyz">✨ Website</a> •
+  <a href="https://twitter.com/0xsarwagya">Twitter ✨</a>
 </p>
 
  <!-- About section -->
